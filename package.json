@@ -1,0 +1,23 @@
+{
+  "name": "ch3-assign",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/going-doer/ch3-assign.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/going-doer/ch3-assign/issues"
+  },
+  "homepage": "https://github.com/going-doer/ch3-assign#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
